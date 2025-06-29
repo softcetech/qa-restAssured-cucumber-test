@@ -76,7 +76,7 @@ Esse comando gera e abre automaticamente o relatório Allure no navegador.
 ## ✍️ Autor(a)
 
 **Claudiane Oliveira**  
-🔗 [LinkedIn](https://www.linkedin.com/in/claudianedev)
+🔗 [LinkedIn](www.linkedin.com/in/claudianeoliveiraqa)
 
 ---
 
